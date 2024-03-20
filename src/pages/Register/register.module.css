@@ -1,0 +1,17 @@
+.bgRegister {
+  background-image: url("../../assets/bg.jpg");
+  height: 100vh;
+}
+
+.registerContainer {
+  width: 500px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.formInput {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  

@@ -1,0 +1,16 @@
+.heroLogin {
+  background-image: url("../../assets/bg.jpg");
+  height: 100vh;
+}
+
+.loginContainer {
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.formInput {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
